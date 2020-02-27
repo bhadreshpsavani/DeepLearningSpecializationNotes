@@ -7,3 +7,4 @@ More Links:
 
 Blogs:
 - [object_localization_and_detection](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
+- [object Detection for dummies] (https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)
